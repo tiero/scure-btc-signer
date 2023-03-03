@@ -30,7 +30,8 @@ Also, check out all _web3 utility libraries:_ [micro-eth-signer](https://github.
 
 Use NPM for browser / node.js:
 
-> npm install @scure/btc-signer
+> npm install micro-btc-signer
+> yarn add micro-btc-signer
 
 For [Deno](https://deno.land), use it with [npm specifier](https://deno.land/manual@v1.28.0/node/npm_specifiers).
 
